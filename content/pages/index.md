@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: ''
     colors: colors-a
-    title: We do fishing differently. Test2
+    title: We do fishing differently. Test23
     subtitle: Fresh. Better. Faster
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
